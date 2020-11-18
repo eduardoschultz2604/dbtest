@@ -2,9 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "name": "hello",
-      "email": "eduardoschultz2604@hotmail.com",
-      "password": "123456"
+      "name": "",
+      "email": "",
+      "password": ""
     }
   ],
   "profile": {
